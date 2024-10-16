@@ -1,0 +1,27 @@
+{
+  "os":  "Linux-6.8.0-45-generic-x86_64-with-glibc2.35",
+  "python":  "3.10.12",
+  "startedAt":  "2024-10-10T12:15:50.797422Z",
+  "program":  "/home/cansavci/Desktop/aging-gan/age-estimator/train/train.py",
+  "codePath":  "train.py",
+  "root":  "/home/cansavci/Desktop/aging-gan/age-estimator/train",
+  "host":  "cansavci-ThinkPad-T440p",
+  "username":  "cansavci",
+  "executable":  "/home/cansavci/Desktop/aging-gan/age-estimator/venv/bin/python",
+  "codePathLocal":  "train.py",
+  "cpu_count":  2,
+  "cpu_count_logical":  4,
+  "disk":  {
+    "/":  {
+      "total":  "117019152384",
+      "used":  "69929308160"
+    }
+  },
+  "memory":  {
+    "total":  "8196083712"
+  },
+  "cpu":  {
+    "count":  2,
+    "countLogical":  4
+  }
+}

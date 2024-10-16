@@ -1,0 +1,9 @@
+{"time":"2024-10-10T17:56:15.481023695+03:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-10T17:56:15.481094412+03:00","level":"INFO","msg":"created symlink","path":"/home/cansavci/Desktop/aging-gan/age-estimator/train/wandb/offline-run-20241010_175615-ehu70dwt/logs/debug-core.log"}
+{"time":"2024-10-10T17:56:15.490851896+03:00","level":"INFO","msg":"created new stream","id":"ehu70dwt"}
+{"time":"2024-10-10T17:56:15.490900003+03:00","level":"INFO","msg":"stream: started","id":"ehu70dwt"}
+{"time":"2024-10-10T17:56:15.490921344+03:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ehu70dwt"}}
+{"time":"2024-10-10T17:56:15.490926844+03:00","level":"INFO","msg":"handler: started","stream_id":{"value":"ehu70dwt"}}
+{"time":"2024-10-10T17:56:15.490969762+03:00","level":"INFO","msg":"sender: started","stream_id":{"value":"ehu70dwt"}}
+{"time":"2024-10-10T17:56:15.499504813+03:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-10T17:56:15.540661092+03:00","level":"INFO","msg":"Starting system monitor"}

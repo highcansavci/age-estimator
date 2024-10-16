@@ -1,0 +1,9 @@
+{"time":"2024-10-11T08:34:18.909360013+03:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-11T08:34:18.909399636+03:00","level":"INFO","msg":"created symlink","path":"/home/cansavci/Desktop/aging-gan/age-estimator/train/wandb/offline-run-20241011_083418-j1cofk2u/logs/debug-core.log"}
+{"time":"2024-10-11T08:34:18.918760036+03:00","level":"INFO","msg":"created new stream","id":"j1cofk2u"}
+{"time":"2024-10-11T08:34:18.91881521+03:00","level":"INFO","msg":"stream: started","id":"j1cofk2u"}
+{"time":"2024-10-11T08:34:18.918828083+03:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"j1cofk2u"}}
+{"time":"2024-10-11T08:34:18.918861156+03:00","level":"INFO","msg":"sender: started","stream_id":{"value":"j1cofk2u"}}
+{"time":"2024-10-11T08:34:18.918833964+03:00","level":"INFO","msg":"handler: started","stream_id":{"value":"j1cofk2u"}}
+{"time":"2024-10-11T08:34:18.926781944+03:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-11T08:34:18.96767783+03:00","level":"INFO","msg":"Starting system monitor"}

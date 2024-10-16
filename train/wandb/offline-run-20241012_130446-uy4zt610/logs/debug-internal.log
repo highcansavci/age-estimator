@@ -1,0 +1,9 @@
+{"time":"2024-10-12T13:04:46.068233128+03:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-12T13:04:46.06828229+03:00","level":"INFO","msg":"created symlink","path":"/home/cansavci/Desktop/aging-gan/age-estimator/train/wandb/offline-run-20241012_130446-uy4zt610/logs/debug-core.log"}
+{"time":"2024-10-12T13:04:46.076648495+03:00","level":"INFO","msg":"created new stream","id":"uy4zt610"}
+{"time":"2024-10-12T13:04:46.076697216+03:00","level":"INFO","msg":"stream: started","id":"uy4zt610"}
+{"time":"2024-10-12T13:04:46.07672703+03:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"uy4zt610"}}
+{"time":"2024-10-12T13:04:46.076762297+03:00","level":"INFO","msg":"sender: started","stream_id":{"value":"uy4zt610"}}
+{"time":"2024-10-12T13:04:46.07680514+03:00","level":"INFO","msg":"handler: started","stream_id":{"value":"uy4zt610"}}
+{"time":"2024-10-12T13:04:46.082985603+03:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-12T13:04:46.1255601+03:00","level":"INFO","msg":"Starting system monitor"}

@@ -1,0 +1,16 @@
+{"time":"2024-10-10T18:15:45.860279533+03:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-10T18:15:45.860316696+03:00","level":"INFO","msg":"created symlink","path":"/home/cansavci/Desktop/aging-gan/age-estimator/train/wandb/offline-run-20241010_181545-k54s88iq/logs/debug-core.log"}
+{"time":"2024-10-10T18:15:45.865684111+03:00","level":"INFO","msg":"created new stream","id":"k54s88iq"}
+{"time":"2024-10-10T18:15:45.865722005+03:00","level":"INFO","msg":"stream: started","id":"k54s88iq"}
+{"time":"2024-10-10T18:15:45.865759851+03:00","level":"INFO","msg":"handler: started","stream_id":{"value":"k54s88iq"}}
+{"time":"2024-10-10T18:15:45.865874539+03:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"k54s88iq"}}
+{"time":"2024-10-10T18:15:45.866079232+03:00","level":"INFO","msg":"sender: started","stream_id":{"value":"k54s88iq"}}
+{"time":"2024-10-10T18:15:45.88362135+03:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-10T18:15:45.924488257+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-10T18:20:35.009625445+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-10T18:20:35.009695775+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-10T18:20:36.018180517+03:00","level":"INFO","msg":"stream: closing","id":"k54s88iq"}
+{"time":"2024-10-10T18:20:36.018216252+03:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"k54s88iq"}}
+{"time":"2024-10-10T18:20:36.018244944+03:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"k54s88iq"}}
+{"time":"2024-10-10T18:20:36.018240979+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"k54s88iq"}}
+{"time":"2024-10-10T18:20:36.018371134+03:00","level":"INFO","msg":"stream: closed","id":"k54s88iq"}

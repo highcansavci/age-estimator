@@ -1,0 +1,16 @@
+{"time":"2024-10-10T18:15:08.462998728+03:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-10T18:15:08.463035579+03:00","level":"INFO","msg":"created symlink","path":"/home/cansavci/Desktop/aging-gan/age-estimator/train/wandb/offline-run-20241010_181508-djsnwos5/logs/debug-core.log"}
+{"time":"2024-10-10T18:15:08.468104475+03:00","level":"INFO","msg":"created new stream","id":"djsnwos5"}
+{"time":"2024-10-10T18:15:08.468136835+03:00","level":"INFO","msg":"stream: started","id":"djsnwos5"}
+{"time":"2024-10-10T18:15:08.4681705+03:00","level":"INFO","msg":"handler: started","stream_id":{"value":"djsnwos5"}}
+{"time":"2024-10-10T18:15:08.468268635+03:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"djsnwos5"}}
+{"time":"2024-10-10T18:15:08.468370966+03:00","level":"INFO","msg":"sender: started","stream_id":{"value":"djsnwos5"}}
+{"time":"2024-10-10T18:15:08.483659099+03:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-10T18:15:08.524796973+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-10T18:15:11.132743708+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-10T18:15:11.132849212+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-10T18:15:12.139240782+03:00","level":"INFO","msg":"stream: closing","id":"djsnwos5"}
+{"time":"2024-10-10T18:15:12.139287395+03:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"djsnwos5"}}
+{"time":"2024-10-10T18:15:12.139312451+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"djsnwos5"}}
+{"time":"2024-10-10T18:15:12.13938598+03:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"djsnwos5"}}
+{"time":"2024-10-10T18:15:12.139410794+03:00","level":"INFO","msg":"stream: closed","id":"djsnwos5"}

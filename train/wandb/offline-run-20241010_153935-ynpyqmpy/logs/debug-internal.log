@@ -1,0 +1,9 @@
+{"time":"2024-10-10T15:39:35.790813064+03:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-10T15:39:35.79084251+03:00","level":"INFO","msg":"created symlink","path":"/home/cansavci/Desktop/aging-gan/age-estimator/train/wandb/offline-run-20241010_153935-ynpyqmpy/logs/debug-core.log"}
+{"time":"2024-10-10T15:39:35.795941227+03:00","level":"INFO","msg":"created new stream","id":"ynpyqmpy"}
+{"time":"2024-10-10T15:39:35.795978201+03:00","level":"INFO","msg":"stream: started","id":"ynpyqmpy"}
+{"time":"2024-10-10T15:39:35.796014252+03:00","level":"INFO","msg":"handler: started","stream_id":{"value":"ynpyqmpy"}}
+{"time":"2024-10-10T15:39:35.796142558+03:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ynpyqmpy"}}
+{"time":"2024-10-10T15:39:35.796382064+03:00","level":"INFO","msg":"sender: started","stream_id":{"value":"ynpyqmpy"}}
+{"time":"2024-10-10T15:39:35.81106578+03:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-10T15:39:35.852634354+03:00","level":"INFO","msg":"Starting system monitor"}
