@@ -1,2 +1,2 @@
- Age Estimator Model Using Cross Attention Between Face Crop and Features Other Than the Face  
+ Age Estimator Model Using Cross Attention Between Face Crop and Full Frame  
  It uses UTKFace Dataset with Augmentations.
